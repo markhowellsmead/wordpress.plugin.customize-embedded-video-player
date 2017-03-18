@@ -9,8 +9,8 @@ Various functionality for customizing embedded video players.
 
 ## Changelog
 
-### 0.0.1
-* Initial version.
+### 2.3.0
+* Initial Github version.
 
 ## Author
 Mark Howells-Mead | www.markweb.ch | Since March 2017
